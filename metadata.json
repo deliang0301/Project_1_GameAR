@@ -1,0 +1,6 @@
+{
+  "name": "CyberQuest AR - Game Informatika Kelas 7 SMP",
+  "description": "Game WebAR edukasi Informatika Kelas 7 SMP: Perakitan Perangkat Keras dan Pertahanan Firewall Basmi Malware langsung di browser HP dan Laptop.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
